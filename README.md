@@ -28,4 +28,3 @@ npm run build
 
 ---
 
-Made with ❤️ using React.
